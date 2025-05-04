@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      카운터 앱
+      카운터 앱1
     </>
   )
 }
