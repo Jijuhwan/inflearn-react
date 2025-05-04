@@ -1,15 +1,25 @@
 import './App.css'
-import { useState } from 'react'
+
+//import { useState } from 'react'
+//import Bulb from "./components/Bulb";
+//import Counter from './components/Counter';
+
+//import Register from './components/Register';
+
+import HookExam from './components/HookExam';
+
 
 function App() {
 
-  const state = useState();
-  console.log(state);
 
   return (
     <>
+      {/*<Bulb />}
+      {<Counter />
+      <Register /> */}
+      <HookExam />
     </>
-  )
+  );
 }
 
 export default App
